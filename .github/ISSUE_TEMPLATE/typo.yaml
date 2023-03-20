@@ -1,0 +1,12 @@
+name: 👀 Typo / Grammar fix
+description: You can just go ahead and send a PR! Thank you!
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A quick summery 
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
