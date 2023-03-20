@@ -39,7 +39,7 @@ body:
       description: |
         Please add the app version. If it's not provided this issue will be ignored and closed.
         Navigate to settings on the impacthubwallet app and read the myappversion.
-      placeholder: Reproduction
+      placeholder: 0.37.85
     validations:
       required: true
   - type: checkboxes
