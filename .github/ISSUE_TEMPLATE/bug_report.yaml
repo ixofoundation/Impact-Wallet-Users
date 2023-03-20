@@ -32,6 +32,16 @@ body:
         - Android
     validations:
       required: true
+  - type: input
+    id: version
+    attributes:
+      label: version
+      description: |
+        Please add the app version. If it's not provided this issue will be ignored and closed.
+        Navigate to settings on the impacthubwallet app and read the myappversion.
+      placeholder: Reproduction
+    validations:
+      required: true
   - type: checkboxes
     id: checkboxes
     attributes:
