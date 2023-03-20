@@ -4,4 +4,4 @@
 
 ![IXO logo](https://uploads-ssl.webflow.com/5f5402e3cf2fb66d997d6331/6023b50915fe07301c257179_ixo%20logo%20Cyan%402x.png)  
 
-This repo serves as a issue template for the ixo-mobile application
+This repo serves as a issue template for the ixo-mobile application. Please feel free to open up a issues for the ixo impact wallet.
